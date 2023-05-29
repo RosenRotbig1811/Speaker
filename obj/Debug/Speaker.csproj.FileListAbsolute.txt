@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Speaker\Speaker\bin\Debug\Speaker.exe.config
+C:\Users\Admin\source\repos\Speaker\Speaker\bin\Debug\Speaker.exe
+C:\Users\Admin\source\repos\Speaker\Speaker\bin\Debug\Speaker.pdb
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.exe
+C:\Users\Admin\source\repos\Speaker\Speaker\obj\Debug\Speaker.pdb
